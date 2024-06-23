@@ -1,0 +1,16 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+.nav .fab {
+    color: #212529; /* Adjust color as per your design */
+    transition: .2s;
+}
+
+.bg-success{
+    background-color: #1a9878 !important;
+}
+
+.fab-ts:hover{
+    transform: scale(1.2);
+}
